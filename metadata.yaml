@@ -1,0 +1,30 @@
+_repo: History-of-the-14th-Battalion-Duke-of-Wellington-s-West-Riding-Regiment-1914-1919_67633
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bales, P. G.
+    alias: Bales, P.G.
+    gutenberg_agent_id: '54368'
+    url: http://www.gutenberg.org/2009/agents/54368
+description: ''
+gutenberg_issued: '2022-03-15'
+identifiers:
+  gutenberg: '67633'
+language: en
+pgterms:marc905: 20190113003829bales
+pgterms:marc906: '1920'
+pgterms:marc907: GB
+production_note: Brian Coe, Karin Spence and the Online Distributed Proofreading Team
+  at https://www.pgdp.net
+publication_note: United Kingdom :Edward Mortimer Ltd,1920.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'Great Britain. Army. Duke of Wellington''s (West Riding) Regiment'
+- !lcsh 'World War, 1914-1918 -- Regimental histories -- Great Britain'
+- GITenberg
+title: History of the 1/4th Battalion Duke of Wellington's (West Riding) Regiment,
+  1914-1919.
+url: http://www.gutenberg.org/ebooks/67633
