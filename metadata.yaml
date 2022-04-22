@@ -1,5 +1,8 @@
 _repo: History-of-the-14th-Battalion-Duke-of-Wellington-s-West-Riding-Regiment-1914-1919_67633
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67633-h/images/cover.jpg
 creator:
   author:
     agent_name: Bales, P. G.
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '54368'
     url: http://www.gutenberg.org/2009/agents/54368
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67633#History-of-the-14th-Battalion-Duke-of-Wellington-s-West-Riding-Regiment-1914-1919
 gutenberg_issued: '2022-03-15'
 identifiers:
   gutenberg: '67633'
